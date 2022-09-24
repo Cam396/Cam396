@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Cam
-- 👀 I’m interested in: Hackintosh
-- 🌱 I’m currently learning: How to become a Better Hackintosher
+- 👀 I’m interested in: computers
+- 🌱 I’m currently learning: How to repair devices 
 - 📫 How to reach me: Contact Me at Cameron.paynevmware@gmail.com
