@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Cam
-- 👀 I’m interested in: computers
+- 👀 I’m interested in: computers and band (flute and clarinet) 
 - 🌱 I’m currently learning: How to repair devices 
 - 📫 How to reach me: Contact Me at Cameron.paynevmware@gmail.com
