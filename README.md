@@ -5,9 +5,9 @@
 I am a systems programmer who enjoys dismantling and optimizing complex machines, whether that means architecting a custom memory management system, overclocking hardware, or tuning an engine. 
 
 ### 🚀 What I'm Building
-* **[AuraDE](https://github.com/Cam396/aurade)** An unofficial ChromiumOS Ash-based desktop environment for Arch Linux, with Wayland/X11 support, hardware integration, recovery tooling, and optional local AI.
+* **[AuraDE](https://github.com/Cam396/aurade):** An unofficial ChromiumOS Ash-based desktop environment for Arch Linux, with Wayland/X11 support, hardware integration, recovery tooling, and optional local AI.
 * **Vib-OS:** Developing a custom Unix-like operating system from the ground up. Currently focused on engineering the core low-level components, including the kernel architecture, task scheduler, and memory management subsystems.
-* **Project GOAT** Training and evaluating Gemma 4 12B as a compiler and execution-verified specialist for OS, firmware, and low-level systems development, with the long-term goal of pushing a small open model toward frontier-level performance. 
+* **Project GOAT:** Training and evaluating Gemma 4 12B as a compiler and execution-verified specialist for OS, firmware, and low-level systems development, with the long-term goal of pushing a small open model toward frontier-level performance. 
 ### 🛠️ Hardware & Systems
 
 * Custom PC architecture, CPU/GPU overclocking, VBIOS modification, and deep-level hardware troubleshooting
